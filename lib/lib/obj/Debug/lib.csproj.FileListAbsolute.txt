@@ -1,0 +1,5 @@
+c:\users\tim\documents\visual studio 2015\Projects\c#\lib\lib\bin\Debug\lib.dll
+c:\users\tim\documents\visual studio 2015\Projects\c#\lib\lib\bin\Debug\lib.pdb
+c:\users\tim\documents\visual studio 2015\Projects\c#\lib\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2015\Projects\c#\lib\lib\obj\Debug\lib.dll
+c:\users\tim\documents\visual studio 2015\Projects\c#\lib\lib\obj\Debug\lib.pdb
