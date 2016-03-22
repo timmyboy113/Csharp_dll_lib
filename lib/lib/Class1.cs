@@ -16,5 +16,11 @@ namespace lib
         {
             return (to_echo);
         }
+
+        public static string add(int numer_one, int number_two)
+        {
+            int ergebnis = numer_one + number_two;
+            return (ergebnis.ToString());          
+        }
     }
 }
